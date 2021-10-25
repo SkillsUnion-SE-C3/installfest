@@ -45,13 +45,6 @@ During this course, we're going to be using Visual Studio Code. It's a free and 
 `source ~/.profile`
 `nvm install --lts`
 
-## Python
-
-1. In your wsl terminal run:
-`python3 --version` This should return your Python version number. If you need to update your version of Python
-2. Install pip
-- `sudo apt install python3-pip`
-
 -------------
 
 # Mac
@@ -102,8 +95,3 @@ During this course, we're going to be using Visual Studio Code. It's a free and 
 
 Install node using brew: Run the command below in your terminal
 `brew install node`
-
-## Python
-
-Install python 3 using brew: Run the command below in your terminal
-`brew install python`
